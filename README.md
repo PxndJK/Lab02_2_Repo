@@ -162,3 +162,10 @@ Emoji:
     NAME : PHACHARANAN THUMJAIKUL
 
     STUDENT ID : 642115026
+=======
+# INFOMATION #
+
+    NAME :  Phiriyakorn Maneekongrit
+
+    STUDENT ID: 642115031
+
